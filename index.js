@@ -18,8 +18,6 @@ getAdvice();
 
 dice.addEventListener("click", getAdvice);
 
-dice.addEventListener("click", (e) => {});
-
 window.addEventListener("load", (e) => {
   container.classList.add("show");
 });

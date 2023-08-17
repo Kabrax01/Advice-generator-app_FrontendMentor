@@ -9,7 +9,7 @@ This is a solution to the [Advice generator app form challenge on Frontend Mento
 
 ## Links
 
-- Live Site URL: [https://kabrax01.github.io/Interactive-card-details-FrontendMentor/](https://kabrax01.github.io/Interactive-card-details-FrontendMentor/)
+- Live Site URL: [https://kabrax01.github.io/Interactive-card-details-FrontendMentor/](https://kabrax01.github.io/Advice-generator-app_FrontendMentor/)
 
 ## Built with
 
