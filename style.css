@@ -47,6 +47,7 @@ main {
 }
 
 .advice__number {
+  font-size: 1rem;
   margin-top: 2rem;
   color: var(--Neon_Green);
   letter-spacing: 0.5rem;
